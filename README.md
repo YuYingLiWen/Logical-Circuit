@@ -22,3 +22,15 @@ The levels should be pretty straight forward. If you have problem solving them, 
 - From Main Menu press Quit
 - ESC > Main Menu > Quit
 - ALT + F4
+
+
+
+## Q&A
+- Why make this app?
+Christmas break had a bit of time & most online apps are unfortunately paid...
+
+- Will you continue to improve it?
+Maybe, if I get the time. There is still a huge margin for improvement and new features to be added like for example a clock and new circuits.
+
+- Will the game be improved? 
+Oh well, the project wasn't suppose to be a game - kind of forced it to be one hahaha
