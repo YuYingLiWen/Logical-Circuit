@@ -1,5 +1,8 @@
 # Logical Circuit Sandbox
 
+![Logical-Circuit-demo](https://user-images.githubusercontent.com/38596161/149224268-f5e6635e-1540-49e9-99e4-6ecdd20e3dbb.gif)
+
+
 ## Play Mode
 Only contains 14 levels for now, you will redirected back to Main Menu after completing the 14th level.
 
